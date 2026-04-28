@@ -1,0 +1,13 @@
+Algoritmo ClasificaNota
+    Leer nota
+
+    Si nota >= 11 Entonces
+        Si nota = 20 Entonces
+            Escribir "¡Excelente!"
+        Sino
+            Escribir "Aprobado"
+        FinSi
+    Sino
+        Escribir "Desaprobado"
+    FinSi
+FinAlgoritmo
